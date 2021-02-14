@@ -214,4 +214,8 @@ $this->title = 'My Yii Application';
       </div>
   </div>
    
-     
+    <style>
+         .wrap > .container {
+                padding: 0px;
+            }
+    </style> 

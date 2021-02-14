@@ -28,13 +28,12 @@
     margin-bottom: 20px;
 }
 
-.wrap > .container {
-    padding: 0px 0px 0px;
-}
+
 /* footer  */
 
 .container-fluid {
-    background-color: #616161
+    background-color: #616161;
+    margin-left: 15px;
 }
 
 .container-fluid .card {
